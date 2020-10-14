@@ -16,8 +16,6 @@ Getting started on Kaggle can be a bit daunting. However, after gaining the basi
 <br>
 ### The Dataset
 The dataset for the Titanic Competition is divided into 3 files:
-1. The `gender_submission.csv` file.
-2. The `train.csv` file.
-3. The `test.csv` file.
-<br>
-![sj](https://user-images.githubusercontent.com/65769340/95970870-15aee500-0e2e-11eb-96ce-9971a820c111.PNG)
+- The `gender_submission.csv` file.
+- The `train.csv` file.
+- The `test.csv` file.
