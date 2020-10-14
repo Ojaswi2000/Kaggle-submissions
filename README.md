@@ -20,3 +20,4 @@ The dataset for the Titanic Competition is divided into 3 files:
 2. The `train.csv` file.
 3. The `test.csv` file.
 <br>
+![sj](https://user-images.githubusercontent.com/65769340/95970870-15aee500-0e2e-11eb-96ce-9971a820c111.PNG)
