@@ -22,3 +22,4 @@ The dataset for the Titanic Competition is divided into 3 files:
 <br>
 The `gender_submission.csv` file conatins what the resultant output file needs to look like.
 The `train.csv` file conatins the training data whereas the `test.csv` contains the test data.
+<br>
