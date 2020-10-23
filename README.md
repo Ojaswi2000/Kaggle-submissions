@@ -10,7 +10,7 @@ to the test and hence bumped into **Kaggle** after learning about it from a frie
 <br>
 ### Getting Started on Kaggle
 #### Competition 1: Titanic : Machine Learning from Disaster
-Getting started on Kaggle can be a bit daunting. However, after gaining the basic regression techniques,one should be able to go in for The `Titanic:Machine Learning from Disaster` Competition, the link for which is given below<br>
+Getting started on Kaggle can be a bit daunting. However, after gaining the knowledge of the basic regression techniques,one should be able to go in for The `Titanic:Machine Learning from Disaster` Competition, the link for which is given below<br>
 [Titanic:Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
 <br>
 ![k](https://user-images.githubusercontent.com/65769340/95969876-e77cd580-0e2c-11eb-89ac-57c04db5dcb5.PNG)
