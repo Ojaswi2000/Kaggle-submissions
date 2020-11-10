@@ -24,3 +24,6 @@ The dataset for the Titanic Competition is divided into 3 files:
 The `gender_submission.csv` file conatins what the resultant output file needs to look like.
 The `train.csv` file conatins the training data whereas the `test.csv` contains the test data.
 <br>
+#### Accuracy of the Model and Model used
+The model used for training the dataset is built on `Logistic Regression` in python.
+
