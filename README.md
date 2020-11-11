@@ -39,7 +39,12 @@ The dataset for the Titanic Competition is divided into 3 files:
 - The `data_description.txt` file- that describes all the features in the training ans test data
 - The `train.csv` file.
 - The `test.csv` file.
-Also, a `sample_submission` file is provided. My output is contained in 
+Also, a `sample_submission` file is provided. My output is contained in `house_regression_analysis.ipynb` file and the final submitted file is the `submission.csv` file.
+
+#### Accuracy and model used
+The model used for training the dataset is built on `Linear Regression` in python. The model got me to the top **82 %** on the leaderboard.Still improving !!
+<br>
+My submission was ranked as follows:
 
 
 
