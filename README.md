@@ -9,7 +9,7 @@ After doing some courses on Data Science and Machine Learning from [Udemy](https
 to the test and hence bumped into **Kaggle** after learning about it from a friend.
 <br>
 ### Getting Started on Kaggle
-#### Competition 1: Titanic : Machine Learning from Disaster
+#### `Competition 1`: Titanic : Machine Learning from Disaster
 Getting started on Kaggle can be a bit daunting. However, after gaining the knowledge of the basic regression techniques,one should be able to go in for The `Titanic:Machine Learning from Disaster` Competition, the link for which is given below<br>
 [Titanic:Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
 <br>
