@@ -45,6 +45,7 @@ Also, a `sample_submission` file is provided. My output is contained in `house_r
 The model used for training the dataset is built on `Linear Regression` in python. The model got me to the top **82 %** on the leaderboard.Still improving !!
 <br>
 My submission was ranked as follows:
+![my submission](https://user-images.githubusercontent.com/65769340/98869194-677f7500-2497-11eb-876c-16f14ace41ab.gif)
 
 
 
