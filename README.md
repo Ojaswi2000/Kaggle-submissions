@@ -34,7 +34,12 @@ problem can be found below:
 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 <br>
 <img src="https://user-images.githubusercontent.com/65769340/98867023-e1156400-2493-11eb-9a40-89d124ae3ce9.PNG" />
-"
+#### The Dataset
+The dataset for the Titanic Competition is divided into 3 files:
+- The `data_description.txt` file- that describes all the features in the training ans test data
+- The `train.csv` file.
+- The `test.csv` file.
+Also, a `sample_submission` file is provided. My output is contained in 
 
 
 
