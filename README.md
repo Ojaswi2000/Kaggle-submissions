@@ -32,7 +32,9 @@ The model used for training the dataset is built on `Logistic Regression` in pyt
 This is my second competition on Kaggle. I solved this problem using Linear Regression techniques. This is again, an introductory problem on Kaggle.The link for this
 problem can be found below:
 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-
+<br>
+<img src="https://user-images.githubusercontent.com/65769340/98867023-e1156400-2493-11eb-9a40-89d124ae3ce9.PNG" />
+"
 
 
 
