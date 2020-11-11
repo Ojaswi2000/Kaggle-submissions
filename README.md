@@ -27,6 +27,12 @@ The `train.csv` file conatins the training data whereas the `test.csv` contains 
 
 #### Accuracy of the Model and Model used
 The model used for training the dataset is built on `Logistic Regression` in python. The model got me to the top **73 %** on the leaderboard.Still improving !!
+<br>
+#### `Competition 2`: House Prices: Advanced Regression Techniques
+This is my second competition on Kaggle. I solved this problem using Linear Regression techniques. This is again, an introductory problem on Kaggle.The link for this
+problem can be found below:
+[House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
 
 
 
